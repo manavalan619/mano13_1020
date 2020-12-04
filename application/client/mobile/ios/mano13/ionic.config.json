@@ -1,0 +1,7 @@
+{
+  "name": "mano13",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
